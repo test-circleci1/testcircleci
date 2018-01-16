@@ -3,6 +3,6 @@ class Sample
 {
     public function helloWorld()
     {
-        return 'hello world!';
+        return 'goodby world!';
     }
 }
